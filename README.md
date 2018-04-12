@@ -4,17 +4,17 @@ Got a legacy project you'd like to incrementally update to newer standards? One 
 
 ## Getting started
 
-Prerequisites: Node 8+, NPM 5+
+Prerequisites: Node 8.x, NPM 5.x
 
-1. Clone or download the project, then install dependencies.
 ```sh
+# Install dependencies
 npm install
-```
-1. Start! This will compile the project and start the webpack dev server.
-```sh
+
+# Run the start script
 npm start
 ```
-1. Access the client in your favorite browser at [localhost:9000](http://localhost:9000/).
+
+You can access the client in your favorite browser at [localhost:9000](http://localhost:9000/).
 
 ## Caveats
 
